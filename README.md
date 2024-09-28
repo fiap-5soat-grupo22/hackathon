@@ -51,6 +51,8 @@ O sistema segue uma arquitetura de microsserviços, com cada funcionalidade prin
   
     ![Hexagonal](cobertura_clientes_api.png)
 
+    📒BDD: [BDD_Helth&Med.pdf](bdd.pdf)
+
 
 - **agendamentos-api:** Gerencia a disponibilidade de horários e agendamento de consultas. As princiapis funcionalidades são:
     - **Inclusão de horários:** Permite que os clientes com perfil de médico incluam horários disponíveis para agendamento de consultas.
@@ -66,6 +68,8 @@ O sistema segue uma arquitetura de microsserviços, com cada funcionalidade prin
     🪲Cobertura de testes:
   
     ![Hexagonal](cobertura_agendamentos_api.png)
+    
+    📒BDD: [BDD_Helth&Med.pdf](bdd.pdf)
 
 ## CI/CD
 
