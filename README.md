@@ -98,3 +98,7 @@ Para o gerenciamento da infraestrutura que não é aplicação, como por exemplo
 - **Manutenibilidade:** Serviços menores e desacoplados são mais fáceis de entender, modificar e manter.
 - **Diversidade Tecnológica:** Diferentes serviços podem utilizar diferentes tecnologias mais adequadas às suas tarefas específicas.
 - **Isolamento de Falhas:** Os problemas em um serviço têm menos probabilidade de afetar outras partes do sistema.
+
+Relatórios de segurança:
+2024-09-25-ZAP-Report-agendamentos-api-91827266597.southamerica-east1.run.app.html
+2024-09-25-ZAP-Report-clientes-api-91827266597.southamerica-east1.run.app.html
